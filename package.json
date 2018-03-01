@@ -1,0 +1,33 @@
+{
+  "name": "fast-math",
+  "version": "1.0.2",
+  "description": "Faster equivalent of Math library.",
+  "main": "src/fast-math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krzaku281/fast-math.git"
+  },
+  "keywords": [
+    "fast",
+    "math",
+	"maths",
+	"mathematics",
+	"quick",
+	"calculation"
+  ],
+  "author": "Marek Krzak <krzakmarek88@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krzaku281/fast-math/issues"
+  },
+  "homepage": "https://github.com/krzaku281/fast-math#readme",
+  "publishConfig": {
+	"registry":"https://registry.npmjs.org/"
+  },
+  "scripts": {
+    "performance": "node ./test/performance.js"
+  }
+}

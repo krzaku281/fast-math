@@ -1,0 +1,8 @@
+#npm
+node_modules
+
+#VS Code
+.vscode
+
+#others
+.DS_Store
